@@ -13,3 +13,5 @@ Especificacoes do jogo:
 - Maquina randomiza essas escolhas
 - Apenas termina quando todas as embarcacoes, seja do player ou do computador sejam afundadas
 - Mensagem de fim do jogo
+
+- Link do video no YT: https://youtu.be/IrzRSKh-0Y0
